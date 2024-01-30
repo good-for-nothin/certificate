@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+    background-color: rgb(237, 240, 236);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.certificate{
+    margin: auto;
+    height: 69%;
+    width: 55%;
+    background-color: rgb(243, 227, 227);
+    border: 3px solid pink;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(11, 14, 230);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+
+}
